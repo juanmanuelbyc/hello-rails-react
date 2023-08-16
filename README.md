@@ -16,7 +16,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -35,7 +34,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 
-# 📖 Ruby On Rails Capstone <a name="about-project"></a>
+# 📖 Hello Rails React <a name="about-project"></a>
 
 > Hello reails react is a basic set up of a Ruby on Rails App with React/Redux framework.
 
