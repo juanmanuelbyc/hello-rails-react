@@ -106,6 +106,11 @@ Clone this repository to your desired folder:
  - bundle install
  - rails db:create
  - rails db:migrate
+ - rails db:seed
+
+
+ Note: For adding new greetings open the Rails console and use the command below.
+ 'Greeting.create(message: "New greeting text")'
 
 ```
 ### Usage
